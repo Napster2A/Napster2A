@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Check out my [website]([http://example.com](https://fortunate-caper-cb2.notion.site/Home-1a3a68523d4c80d3996ec5404f690d49))
+Check out my [Notion website](https://fortunate-caper-cb2.notion.site/Home-1a3a68523d4c80d3996ec5404f690d49).
 <!--
 **Napster2A/Napster2A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
