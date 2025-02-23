@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+As a trained Data Scientist, I have developed strong expertise in Python, automation, and Machine Learning. Over 4+ years at RES Group, I designed and deployed solutions that optimized asset supervision, reduced response times, and replaced manual processes.
+
+I developed a real-time tracking system for field interventions, allowing teams across the world to monitor site activity efficiently. To enhance operational insights, I built an automated fault analysis tool leveraging Machine Learning to identify root causes and categorize asset downtimes. I also implemented an alerting system that detects and notifies teams of critical anomalies, improving incident response. Additionally, I designed Power BI dashboards to monitor tool performance and user engagement.
+
+With expertise in Python, SQL, Power BI, and Microsoft Azure, I am passionate about developing impactful solutions that drive automation, efficiency, and data-driven decision-making.
+
 Check out my [Notion website](https://fortunate-caper-cb2.notion.site/Home-1a3a68523d4c80d3996ec5404f690d49).
 <!--
 **Napster2A/Napster2A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
