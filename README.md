@@ -6,7 +6,6 @@ I developed a real-time tracking system for field interventions, allowing teams 
 
 With expertise in Python, SQL, Power BI, and Microsoft Azure, I am passionate about developing impactful solutions that drive automation, efficiency, and data-driven decision-making.
 
-Check out my [Notion website](https://fortunate-caper-cb2.notion.site/Home-1a3a68523d4c80d3996ec5404f690d49).
 <!--
 **Napster2A/Napster2A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
